@@ -1,9 +1,3 @@
 - 👋 Hi, I’m @HrishikeshSalunkhe
-
-<!---
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning ReactJs
-
-HrishikeshSalunkhe/HrishikeshSalunkhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Associate Software Engineer with ~3 years of experience in developing scalable web applications using React.js, Node.js, and MySQL. Skilled in building intuitive front-end interfaces, optimizing back-end performance, and enhancing database efficiency. Enthusiastic about solving complex problems, collaborating with cross-functional teams, and continuously improving software quality. 
+  
